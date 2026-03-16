@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm Dhairya Bhatnagar</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Passionate%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Passionate%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descSize=25" />
 </p>
 
 ### <p align="center">Connect with me</p>
